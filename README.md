@@ -2,7 +2,7 @@
 A Fictional and Minimalist Bank
 
 ## Live Demo
-**You can see the `Bankist` Live On:** [Here](https://barak-kuzi.github.io/Bankist-App/)
+**You can see the `Bankist` Live On:** [Here](https://bankist-app-barak-kuzi.netlify.app/)
 
 ## Log-in credentials
 
